@@ -49,7 +49,7 @@ Distributed
 LinearAlgebra
 ```
 
-
+Installation is not expected to take more than 30 minutes
 ___
 ## User notes
 
