@@ -61,6 +61,6 @@ ___
 
 ## Timing:
 
-Analysis requiring only a few time series simulations take only a few seconds. Analyses requiring more simulations, such as parameter sweeps or calucating release rate requirements can take several minutes. 
+Results requiring only a few time series simulations take only a few seconds. Results requiring more simulations, such as parameter sweeps or calucating release rate requirements, can take several minutes. 
 ___
 
