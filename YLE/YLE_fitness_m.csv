@@ -1,0 +1,13 @@
+male genotype,fitness
+AAY,1
+AAy,1
+AaY,-ham*sam + 1
+Aay,-ham*sam + 1
+AαY,-hαm*sαm + 1
+Aαy,-hαm*sαm + 1
+aaY,1 - sam
+aay,1 - sam
+aαY,1 - saαm
+aαy,1 - saαm
+ααY,1 - sαm
+ααy,1 - sαm
