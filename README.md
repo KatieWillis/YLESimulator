@@ -36,3 +36,9 @@ using NBInclude
 
 ___
 ## User notes
+
+- The YLEScript.ipynb is a jupyter notebook which contains the code used to generate the figures and values associated with the modelling element of the project.
+- The YLEScript.ipynb script calls functions which define the model contained within the YLEModel.ipynb file.
+- Within the YLE and YLEXS files are tables containing information on inheritance rules and fitness costs associated with each genotype which are used alongside the functions within YLEModel.ipynb to define the model.
+
+
