@@ -1,6 +1,6 @@
 # YLESimulator
 ___
-This repository contains jupyter notebooks associated with the publication "A Y chromosome-linked genome editor for efficient population suppression in the malaria vector Anopheles gambiae" available at TBC.
+This repository contains jupyter notebooks associated with the manuscript "A Y chromosome-linked genome editor for efficient population suppression in the malaria vector Anopheles gambiae" available at TBC.
 
 Ignacio Tolosana1, Katie Willis1, Austin Burt1, Matthew Gribble1, Tony Nolan2*, Andrea Crisanti1 & Federica Bernardini1
 
