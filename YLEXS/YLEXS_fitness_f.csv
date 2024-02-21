@@ -1,46 +1,46 @@
-female
-1
--hbf*sbf + 1
--hβf*sβf + 1
-1
--hbf*sbf + 1
--hβf*sβf + 1
-1
--hbf*sbf + 1
--hβf*sβf + 1
-1 - sbf
-1 - sbf
--hbf*sbf + 1
-1 - sbf
-1 - sbf
--hbf*sbf + 1
-1 - sbf
-1 - sbf
-1 - sβf
--hβf*sβf + 1
-1 - sbf
-1 - sβf
--hβf*sβf + 1
-1 - sbf
-1 - sβf
-1
--hbf*sbf + 1
--hβf*sβf + 1
-1
--hbf*sbf + 1
--hβf*sβf + 1
-1 - sbf
-1 - sbf
--hbf*sbf + 1
-1 - sbf
-1 - sbf
-1 - sβf
--hβf*sβf + 1
-1 - sbf
-1 - sβf
-1
--hbf*sbf + 1
--hβf*sβf + 1
-1 - sbf
-1 - sbf
-1 - sβf
+female genotype,fitness
+ABAB,1
+ABAb,-hbf*sbf + 1
+ABAβ,-hβf*sβf + 1
+ABaB,1
+ABab,-hbf*sbf + 1
+ABaβ,-hβf*sβf + 1
+ABαB,1
+ABαb,-hbf*sbf + 1
+ABαβ,-hβf*sβf + 1
+AbAb,1 - sbf
+AbAβ,1 - sbf
+AbaB,-hbf*sbf + 1
+Abab,1 - sbf
+Abaβ,1 - sbf
+AbαB,-hbf*sbf + 1
+Abαb,1 - sbf
+Abαβ,1 - sbf
+AβAβ,1 - sβf
+AβaB,-hβf*sβf + 1
+Aβab,1 - sbf
+Aβaβ,1 - sβf
+AβαB,-hβf*sβf + 1
+Aβαb,1 - sbf
+Aβαβ,1 - sβf
+aBaB,1
+aBab,-hbf*sbf + 1
+aBaβ,-hβf*sβf + 1
+aBαB,1
+aBαb,-hbf*sbf + 1
+aBαβ,-hβf*sβf + 1
+abab,1 - sbf
+abaβ,1 - sbf
+abαB,-hbf*sbf + 1
+abαb,1 - sbf
+abαβ,1 - sbf
+aβaβ,1 - sβf
+aβαB,-hβf*sβf + 1
+aβαb,1 - sbf
+aβαβ,1 - sβf
+αBαB,1
+αBαb,-hbf*sbf + 1
+αBαβ,-hβf*sβf + 1
+αbαb,1 - sbf
+αbαβ,1 - sbf
+αβαβ,1 - sβf
