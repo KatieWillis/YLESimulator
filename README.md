@@ -53,10 +53,10 @@ Installation is not expected to take more than 30 minutes
 ___
 ## User notes
 
-- The YLEScript.ipynb is a jupyter notebook which contains the code used to generate the figures and values associated with the modelling element of the project.
+- The YLEScript.ipynb is a jupyter notebook which contains the code used to generate the figures and values associated with the deterministic modelling element of the project.
+- The YLECageSimulator.ipynb is a jupyter notebook which contains the code used to simulate the cage trial and infer an unknown parameter.
 - The YLEScript.ipynb script calls functions which define the model contained within the YLEModel.ipynb file.
-- The YLE and YLEXS folders contain human readable .csv files with inheritance probabilities and fitness costs associated with each genotype (or pair of genotypes) which are used alongside the functions within YLEModel.ipynb to define the model.
-
+- The YLE and YLEXS folders contain human readable .csv files with inheritance probabilities and fitness costs associated with each genotype (or pair of genotypes) which are used alongside the functions within YLEModel.ipynb and to define the model.
 ___
 
 ## Timing:
